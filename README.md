@@ -21,7 +21,7 @@ Python, Django, HTML, CSS, Markdown
 
 ## Installation
 1. Clone the repository:
-   git clone https://github.com/YOUR_USERNAME/Wiki_App.git
+   git clone https://github.com/saraccmululo/Encyclopedia_app.git
    cd Wiki_App
 2. Create a virtual environment:
     python3 -m venv env
